@@ -1,6 +1,6 @@
-# Script Title
-A small python program that converts binary and decimal
+# A small python program that converts binary and decimal
 
-### Prerequisites
+## Prerequisites
 Python 3
 
+## Status :To do
